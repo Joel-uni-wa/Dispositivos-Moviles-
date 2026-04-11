@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- Imagen para la aplicacion Interactive Image "imagen.png" Referencia(Tusk act 1 // Manga "Steel Ball Run Jojo’s Bizarre Adventure") -->
+    <ImageView
+        android:id="@+id/miImagen"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/imagen"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout>
